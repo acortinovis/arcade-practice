@@ -1,1 +1,0 @@
-physics_apply_torque(-5000);
